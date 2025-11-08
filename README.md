@@ -6,6 +6,12 @@ NIM     : 312410505
 
 Kelas:  : TI.24.A.5
 
+Matakuliah : Pemograman Mobile 1
+
+Dosen Pengampu : Donny Maulana, S.Kom., M.M.S.I.
+
+## Tugas
+
 1. Splash Screen (Deteksi location, Bendera/logo pemda, Say Hello/Selamat Datang sesuai lokasi daerah masing-masing)
 
 [Klik ini untuk melihat video splash screen di youtube](https://youtu.be/5fOo7RlYqhQ)
@@ -35,6 +41,7 @@ Tampilan ini untuk menambahkan catatan baru untuk user dan akan muncul di dashbo
 Jika user mengklik judul catatan pada kotak di dasboard tersebut akan melanjutkan ke tampilan catatan untuk melihat catatan tersebut. User juga bisa mengedit atau menghapus catatannya.
 
 - Edit catatan
+
 Jika user mengedit maka akan ke tampilan edit, dan user bisa mengedit catatan tersebut dan menyimpannya.
 
 3. Mockup Project
@@ -53,6 +60,8 @@ Jika user mengedit maka akan ke tampilan edit, dan user bisa mengedit catatan te
 
 [Klik  disini untuk melihat UXnya di figma](https://www.figma.com/proto/GmNOQOCnnWD8qFndQ84scz/tugas?node-id=104-121&t=26U5s91AFJUzEFui-1)
 
-Link jadwal pada ClickUp
+## Link jadwal pada ClickUp
 
 [Klik ini untuk cek jadwal di board ClickUp](https://sharing.clickup.com/90181792553/b/h/6-901812295958-2/e3904e1dca9e5fc)
+
+[Klik ini untuk cek jadwal di gantt ClickUp](https://sharing.clickup.com/90181792553/g/h/2kzm1wt9-578/b1345700e983635)
