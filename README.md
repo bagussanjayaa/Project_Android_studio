@@ -18,7 +18,7 @@ Dosen Pengampu : Donny Maulana, S.Kom., M.M.S.I.
 
 2. StoryBoard Project
 
-![foto](sketsa.jpg)
+![foto](Pict/sketsa.jpg)
 
 - Tampilan logo
 
@@ -46,11 +46,11 @@ Jika user mengedit maka akan ke tampilan edit, dan user bisa mengedit catatan te
 
 3. Mockup Project
 
-![foto](Sketsa.png)
+![foto](Pict/Sketsa.png)
 
 4. UI (User Interface) Project
 
-![foto](ui.png)
+![foto](Pict/ui.png)
 
 [Klik disini untuk melihat video ui di youtube](https://youtu.be/5fOo7RlYqhQ)
 
