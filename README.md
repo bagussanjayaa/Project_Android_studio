@@ -14,6 +14,8 @@ Dosen Pengampu : Donny Maulana, S.Kom., M.M.S.I.
 
 1. Splash Screen (Deteksi location, Bendera/logo pemda, Say Hello/Selamat Datang sesuai lokasi daerah masing-masing)
 
+![foto](Pict/Splash.png)
+
 [Klik ini untuk melihat video splash screen di youtube](https://youtu.be/5fOo7RlYqhQ)
 
 2. StoryBoard Project
