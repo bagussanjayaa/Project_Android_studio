@@ -72,7 +72,7 @@ Jika user mengedit maka akan ke tampilan edit, dan user bisa mengedit catatan te
 
 [Klik ini untuk lihat tampilan aplikasi](https://youtube.com/shorts/YT7L3UA8fvM?si=e_g8pM-Mypa8UW2F)
 
-[Klik ini untuk lihat tampilan aplikasi](https://youtube.com/shorts/sNUFVCq8p2E?si=Ph-EHzcMbp-AmoCK)
+[Klik ini untuk lihat tampilan lokasi aplikasi](https://youtube.com/shorts/sNUFVCq8p2E?si=Ph-EHzcMbp-AmoCK)
 
 7. Membuat notifikasi di firebase
 
