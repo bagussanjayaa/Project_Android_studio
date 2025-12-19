@@ -62,6 +62,22 @@ Jika user mengedit maka akan ke tampilan edit, dan user bisa mengedit catatan te
 
 [Klik  disini untuk melihat UXnya di figma](https://www.figma.com/proto/GmNOQOCnnWD8qFndQ84scz/tugas?node-id=104-121&t=26U5s91AFJUzEFui-1)
 
+6. Implementasi di Android Studio
+
+- Membuat Splashscreen logo
+- Membuat tampilan lokasi negara, lambang, singkatan dan ucapan selamat datang
+- Membuat tampilan beranda atau dashboard
+- Membuat tampilan tambah catatan
+- Membuat tampilan detail catatan
+
+[Klik ini untuk lihat tampilan aplikasi](https://youtube.com/shorts/YT7L3UA8fvM?si=e_g8pM-Mypa8UW2F)
+
+[Klik ini untuk lihat tampilan aplikasi](https://youtube.com/shorts/sNUFVCq8p2E?si=Ph-EHzcMbp-AmoCK)
+
+7. Membuat notifikasi di firebase
+
+![foto](Pict/notif.jpg)
+
 ## Link jadwal pada ClickUp
 
 [Klik ini untuk cek jadwal di board ClickUp](https://sharing.clickup.com/90181792553/b/h/6-901812295958-2/e3904e1dca9e5fc)
