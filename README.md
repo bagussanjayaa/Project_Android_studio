@@ -76,7 +76,7 @@ Jika user mengedit maka akan ke tampilan edit, dan user bisa mengedit catatan te
 
 7. Membuat notifikasi di firebase
 
-![foto](Pict/notif.jpg)
+![foto](Pict/notifikasi.jpg)
 
 ## Link jadwal pada ClickUp
 
