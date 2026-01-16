@@ -16,7 +16,7 @@ Dosen Pengampu : Donny Maulana, S.Kom., M.M.S.I.
 
 ![foto](Pict/Splash.png)
 
-[Klik ini untuk melihat video splash screen di youtube](https://youtu.be/5fOo7RlYqhQ)
+[Klik ini untuk melihat video splash screen di youtube](https://youtube.com/shorts/Ou00MbEvjDQ?si=-Caq0ZnOMuyUr6UH)
 
 2. StoryBoard Project
 
@@ -70,9 +70,9 @@ Jika user mengedit maka akan ke tampilan edit, dan user bisa mengedit catatan te
 - Membuat tampilan tambah catatan
 - Membuat tampilan detail catatan
 
-[Klik ini untuk lihat tampilan aplikasi](https://youtube.com/shorts/YT7L3UA8fvM?si=e_g8pM-Mypa8UW2F)
+[Klik ini untuk lihat tampilan aplikasi](https://youtube.com/shorts/APycTNbC2Ic?si=PYz9igkcMWqlbucy)
 
-[Klik ini untuk lihat tampilan lokasi aplikasi](https://youtube.com/shorts/sNUFVCq8p2E?si=Ph-EHzcMbp-AmoCK)
+[Klik ini untuk lihat tampilan lokasi aplikasi](https://youtube.com/shorts/Ou00MbEvjDQ?si=-Caq0ZnOMuyUr6UH)
 
 7. Membuat notifikasi di firebase
 
